@@ -6,7 +6,7 @@ alias ~="cd ~" # `cd` is probably faster to type though
 
 # Shortcuts
 alias d="cd ~/dotfiles"
-alias gh="cd ~/github.com"
+# alias gh="cd ~/github.com"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
 alias z="cd ~/projects/zellwk.com"
