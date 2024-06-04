@@ -8,19 +8,6 @@
 	<string>Tools</string>
 	<key>connections</key>
 	<dict>
-		<key>6E4EEBD5-0AB8-4986-8EC0-1CD707F41689</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>27E953E6-D7CA-4038-BA33-36E38547091F</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>8AFB4227-2AC4-47AA-9482-F7B5362C2D98</key>
 		<array>
 			<dict>
@@ -55,30 +42,9 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>New Terminal Window</string>
+	<string>Terminal</string>
 	<key>objects</key>
 	<array>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>1</integer>
-				<key>keyword</key>
-				<string>New Terminal Window</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>New Terminal Window</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>6E4EEBD5-0AB8-4986-8EC0-1CD707F41689</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
@@ -108,7 +74,7 @@ end alfred_script</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>New Terminal Window</string>
+				<string>Terminal</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -129,7 +95,7 @@ end alfred_script</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>New Terminal Window</string>
+				<string>Terminal</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -152,13 +118,6 @@ end alfred_script</string>
 			<key>ypos</key>
 			<real>160</real>
 		</dict>
-		<key>6E4EEBD5-0AB8-4986-8EC0-1CD707F41689</key>
-		<dict>
-			<key>xpos</key>
-			<real>50</real>
-			<key>ypos</key>
-			<real>50</real>
-		</dict>
 		<key>8AFB4227-2AC4-47AA-9482-F7B5362C2D98</key>
 		<dict>
 			<key>xpos</key>
@@ -176,6 +135,10 @@ end alfred_script</string>
 	</dict>
 	<key>userconfigurationconfig</key>
 	<array/>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.0.0</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
