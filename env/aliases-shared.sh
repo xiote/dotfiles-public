@@ -145,7 +145,8 @@ alias gc='git commit -v'
 alias gp='git push'
 alias gu='git pull'
 alias gl='git log'
-alias grsst='git restore --staged'
+alias grs='git restore --staged'
+alias grc='git rm --cached'
 
 # kubenates
 alias m='minikube'
